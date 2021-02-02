@@ -1,4 +1,4 @@
-﻿// 0-1背包
+﻿// 完全背包
 class Solution {
 public:
     int numSquares(int n) {
